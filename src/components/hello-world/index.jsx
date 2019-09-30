@@ -7,8 +7,8 @@ const HelloWorld = ({ title }) => (
   <div className={style['hello-world']}>
     {title}
     <div className={main.text}>
-      This is a ping text made with SASS
-      <div className={main.color}>And here blue</div>
+      This is a pink text made with SASS
+      <div className={`${main.color} ${main.size}`}>And here blue and bigger</div>
     </div>
   </div>
 );
