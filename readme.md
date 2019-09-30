@@ -1,13 +1,7 @@
-## Webpack react minimal boilerplate
-<p align="center">
-    <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
-   <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/hashemkhalifa/webpack-react-boilerplate.svg" >
-</p>
+## React boilerplate
 
 > Minimal webpack and react boilerplate using latest version of react and babel as well as jest and enzyme for more details about technologies used. [click](#technologies-used) 
 > with real time server changes ;)
-
-> check out  [Medium article](https://medium.com/@hashem.khalifa/minimal-webpack-and-react-starter-boilerplate-seriously-d90a673e134f) for more details 
 
 
 
@@ -45,7 +39,7 @@ webpack
 
 1- Clone the boilerplate repo
 
-`git clone git@github.com:HashemKhalifa/webpack-react-boilerplate.git`
+`git clone git@github.com:jhonatantft/react-boilerplate.git`
 
 2- `yarn` or `npm install` to install npm packages
 

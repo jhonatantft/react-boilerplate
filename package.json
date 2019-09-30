@@ -1,5 +1,5 @@
 {
-  "name": "minimal-webpack-react",
+  "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate for react and webpack",
   "main": "index.js",
@@ -44,9 +44,9 @@
       "jsx"
     ]
   },
-  "repository": "https://github.com/HashemKhalifa/webpack-react-boilerplate",
-  "author": "HashemKhalifa",
-  "license": "ISC",
+  "repository": "https://github.com/jhonatantft/react-boilerplate",
+  "author": "JhonatanTomimatsu",
+  "license": "MIT",
   "private": false,
   "engines": {
     "node": ">=8",
